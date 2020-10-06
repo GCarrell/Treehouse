@@ -1,5 +1,7 @@
 ## Treehouse
 
-This repo is for all my course files completed through Treehouse
+This repo is for all my course files completed through Treehouse.
 
-Checkout my Treehouse profile - https://teamtreehouse.com/gregorycarrell
+Checkout my Treehouse profile [here](https://teamtreehouse.com/gregorycarrell)
+
+![](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
